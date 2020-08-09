@@ -19,3 +19,7 @@ var functionTestTask = function() {
 var testCompleted = function() {
     console.log('testComplete');
 }
+
+var doneTast = function() {
+    console.log('doneTask');
+}
